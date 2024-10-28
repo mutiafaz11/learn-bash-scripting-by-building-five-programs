@@ -77,3 +77,7 @@ man if
 help if
 ./countdown.sh arg1
 ./countdown.sh arg2
+cd ~/project
+cd ~/arg2
+__vsc_prompt_cmd_original
+./countdown.sh arg2
