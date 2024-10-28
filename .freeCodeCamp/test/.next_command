@@ -57,3 +57,7 @@ echo "Hello $NAME"
 echo --help
 man echo
 ./questionnaire.sh
+./questionnaire.sh
+echo -e "\n~~ Questionnaire ~~\n"
+man echo
+echo -e "\n~~ Questionnaire ~~\n"
