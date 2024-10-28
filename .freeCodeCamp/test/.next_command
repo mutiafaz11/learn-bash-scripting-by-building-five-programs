@@ -45,3 +45,9 @@ ls --color=auto -l
 ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+NAMAAME
+NAME
+echo Hello $name
+name="mutiafaz11"
+__vsc_prompt_cmd_original
+echo "Hello $NAME"
