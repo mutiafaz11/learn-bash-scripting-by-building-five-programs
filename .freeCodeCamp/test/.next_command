@@ -65,3 +65,5 @@ echo -e "\n~~ Questionnaire ~~\n"
 ./questionnaire.sh
 echo Hello $NAME from $LOCATION. I learned that your favorite coding website is $WEBSITE!
 ./questionnaire.sh
+cd ~/project
+touch countdown.sh
